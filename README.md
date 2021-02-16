@@ -1,4 +1,5 @@
 # Parrot eye
+![capture](./misc/cap.gif)
 A joke application.
 
 # Author
