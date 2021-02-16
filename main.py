@@ -49,4 +49,4 @@ while True:
         cursorpos = get_cursorpos()
         winpos = get_winpos(window)
         angle = calc_angle(winpos[0], winpos[1], cursorpos[0], cursorpos[1])
-        window['-image-'].update(images[int(angle//36)])
+        window['-image-'].update(images[int((angle-1)//36)])
