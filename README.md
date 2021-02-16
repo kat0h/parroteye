@@ -3,6 +3,11 @@
 
 A joke application.
 
+# ToDo
+- Refactoring main.py
+
+refer to : https://gist.github.com/kato-k/5f31d7a814c1f9aa6c64ac06bce0706b
+
 # Author
 KotaKato @kato-k
 
